@@ -31,6 +31,8 @@ Visual Studio Code
     
 Jupyter Lab 
     Version 3.2.9
+    
+Git version 2.24.0.windows.2
 
 ---
 
