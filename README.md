@@ -95,7 +95,7 @@ Contact information:
 
 Email: watsondaniel1984@gmail.com
 
-[LinkedIn] (https://www.linkedin.com/in/daniel-watson-87819a20/)
+[LinkedIn](https://www.linkedin.com/in/daniel-watson-87819a20/)
 
 ---
 **Santiago Pesantez**
@@ -104,7 +104,7 @@ Contact information:
 
 Email: pesantez.santiago.i@gmail.com
 
-[LinkedIn] (https://www.linkedin.com/in/santiago-pesantez/)
+[LinkedIn](https://www.linkedin.com/in/santiago-pesantez/)
 
 ---
 
