@@ -89,6 +89,17 @@ Email: cmiskovich@verizon.net
 
 ---
 
+**Daniel Watson**
+
+Contact information: 
+
+Email: watsondaniel1984@gmail.com
+
+[LinkedIn] (https://www.linkedin.com/in/daniel-watson-87819a20/)
+
+---
+
+
 ## License
 
 [MIT](/license.txt)
