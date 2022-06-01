@@ -1,8 +1,7 @@
 # Project_1
 # Primary application file
 
-Produce a Jupyter notebook that contains two financial analysis tools:
-
+Produce a Jupyter notebook that contains housing data for the Takoma Park area in Maryland for the past five years.  
 .
 
 
