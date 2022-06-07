@@ -103,11 +103,19 @@ matplotlib
 
 Path
 
-quandl
-
 numpy
 
+quandl
+
+pgeocode
+
 re
+
+hvplot
+
+plotly
+
+nomi
 
 
 
