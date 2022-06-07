@@ -1,7 +1,7 @@
 # Project_1
 # Primary application file
 
-Produce a Jupyter notebook that contains housing data for the Takoma Park area in Maryland for the past five years.  
+Produce a Jupyter lab notebook that shows pricing between Washington, DC, greater Montogmery county MD, and Takoma Park.  
 .
 
 
@@ -33,6 +33,8 @@ Jupyter Lab
     
 Git version 2.24.0.windows.2
 
+FRED economic data - St. Louis Federal Reserve
+
 Zillow web services
 
 ---
@@ -45,33 +47,69 @@ Zillow web services
 
 ## Information about datasets
 
-:
+Functions to reuse in searches:
 
-rn
+    search_str_list:
+    
+        states
+        
+        county
+        
+        zip code
+        
+Load env environment variables into notebook:
+
+env_path
+
+load_dotenv
 
 
+Get API key from environment variable:
+
+quandl_api_key
+
+Create indicators in a dataset:
+
+df_ind
+
+Create dataset by region:
+
+df_regions
+
+Normalize regions data:
+
+df_regions_zip
+
+Normalize request using json:
+
+df
+       
 
 ---
 
 ## Libraries used in analysis
 
-os
+pandas
 
-requests
+os
 
 json
 
-pandas
+requests
 
 dotenv
 
-alpaca_trade_api
+matplotlib
 
-MCForecastTools
+Path
 
-MCSimulation
+quandl
 
-%matplotlib inline
+numpy
+
+re
+
+
 
 
 ---
@@ -107,7 +145,13 @@ Email: pesantez.santiago.i@gmail.com
 [LinkedIn](https://www.linkedin.com/in/santiago-pesantez/)
 
 ---
+**KaBria Broadwater**
 
+Contact Information:
+
+Email: KaBria.Broadwater@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/kabriabroadwater/)
 
 ## License
 
