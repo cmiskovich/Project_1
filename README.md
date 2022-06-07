@@ -47,33 +47,69 @@ Zillow web services
 
 ## Information about datasets
 
-:
+Functions to reuse in searches:
 
-rn
+    search_str_list:
+    
+        states
+        
+        county
+        
+        zip code
+        
+Load env environment variables into notebook:
+
+env_path
+
+load_dotenv
 
 
+Get API key from environment variable:
+
+quandl_api_key
+
+Create indicators in a dataset:
+
+df_ind
+
+Create dataset by region:
+
+df_regions
+
+Normalize regions data:
+
+df_regions_zip
+
+Normalize request using json:
+
+df
+       
 
 ---
 
 ## Libraries used in analysis
 
-os
+pandas
 
-requests
+os
 
 json
 
-pandas
+requests
 
 dotenv
 
-alpaca_trade_api
+matplotlib
 
-MCForecastTools
+Path
 
-MCSimulation
+quandl
 
-%matplotlib inline
+numpy
+
+re
+
+
 
 
 ---
