@@ -83,6 +83,50 @@ df_regions_zip
 Normalize request using json:
 
 df
+
+Select Region:
+
+_states
+
+Filter data by state:
+
+df_state
+
+Filter on region:
+
+df_filter
+
+Median home price:
+
+df_region_price
+
+Merge price and rent tables:
+
+_df_merge
+
+Merger price and rent with region detail:
+
+df_merge
+
+Dataframe consisting of the city PRR, lat and long columns:
+
+df_plot
+
+Plot the data using geoviews:
+
+map_plot
+
+Zip codes to avoid:
+
+zip_codes_to_avoid
+
+df_new_merge
+
+Dataframe with historical housing prices in Washington, DC, Silver Spring, MD, and Takoma Park, MD:
+
+df_housing
+
+
        
 
 ---
@@ -103,11 +147,19 @@ matplotlib
 
 Path
 
-quandl
-
 numpy
 
+quandl
+
+pgeocode
+
 re
+
+hvplot
+
+plotly
+
+nomi
 
 
 
