@@ -1,7 +1,7 @@
 # Project_1
 # Primary application file
 
-Produce a Jupyter notebook that contains housing data for the Takoma Park area in Maryland for the past five years.  
+Produce a Jupyter lab notebook that shows pricing between Washington, DC, greater Montogmery county MD, and Takoma Park.  
 .
 
 
@@ -32,6 +32,8 @@ Jupyter Lab
     Version 3.2.9
     
 Git version 2.24.0.windows.2
+
+FRED economic data - St. Louis Federal Reserve
 
 Zillow web services
 
