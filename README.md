@@ -116,6 +116,16 @@ Plot the data using geoviews:
 
 map_plot
 
+Zip codes to avoid:
+
+zip_codes_to_avoid
+
+df_new_merge
+
+Dataframe with historical housing prices in Washington, DC, Silver Spring, MD, and Takoma Park, MD:
+
+df_housing
+
 
        
 
