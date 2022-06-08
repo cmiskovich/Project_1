@@ -33,6 +33,8 @@ Jupyter Lab
     
 Git version 2.24.0.windows.2
 
+Quandl API
+
 FRED economic data - St. Louis Federal Reserve
 
 Zillow web services
