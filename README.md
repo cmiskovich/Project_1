@@ -1,4 +1,4 @@
-# Project_1
+# Project_1 - Real Estate Analysis of the DMV.
 # Primary application file
 
 Produce a Jupyter lab notebook that shows pricing between Washington, DC, Silver Spring, MD, and Takoma Park. The Jupyter lab notebook also produced real estate analysis of the District, Maryland, and Virginia (DMV).  
