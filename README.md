@@ -1,7 +1,7 @@
 # Project_1
 # Primary application file
 
-Produce a Jupyter lab notebook that shows pricing between Washington, DC, greater Montogmery county MD, and Takoma Park.  
+Produce a Jupyter lab notebook that shows pricing between Washington, DC, Silver Spring, MD, and Takoma Park.  
 .
 
 
@@ -41,7 +41,7 @@ Zillow web services
 
 ## General information about analysis.
 
-.
+Goiong through the project we realized it was not easy to find real estate data in large quanitites.  Success was finally finding an API that could give us the data we need after trial and error which cost the team a lot of time in obtaining data. We narrowed down the data to the 
 
 ---
 
