@@ -5,6 +5,9 @@ Produce a Jupyter lab notebook that shows pricing between Washington, DC, Silver
 
 
 
+[Presentation](https://www.canva.com/design/DAFDEMe4B3o/TUUfG1p0o1JYtewCIPdlhw/edit)
+
+
 
 ---
 
