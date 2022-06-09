@@ -139,6 +139,10 @@ Dataframe with historical housing prices in Washington, DC, Silver Spring, MD, a
 
 df_housing
 
+Transpose data frame to make it easier to line plot:
+
+tdf
+
 
        
 
