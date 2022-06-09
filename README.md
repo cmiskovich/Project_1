@@ -3,7 +3,7 @@
 
 Produce a Jupyter lab notebook that shows pricing between Washington, DC, Silver Spring, MD, and Takoma Park. The Jupyter lab notebook also produced real estate analysis of the District, Maryland, and Virginia (DMV).  
 
-
+A link to our presentation is below:
 
 [Presentation](https://www.canva.com/design/DAFDEMe4B3o/TUUfG1p0o1JYtewCIPdlhw/edit)
 
