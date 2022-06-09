@@ -52,7 +52,9 @@ of the data where we had median home prices and price to rent ratio (PRR).  We a
 [mapbox](/mapbox.png)
 showing the same information.  We then created a dataframe showing the missing PRR information.  Finally we created a data frame with the median home price for Washington DC, Silver Spring, and Takoma Park, MD and created a
 [scatter](/scatter_dc_ss_tp.png)
-plot showing the rise in median home prices over the past 20 years.  The analysis shows it was better to invest extra money towards a home in Washington , DC in 2000 because the amount of equity would have out gained the money spent on housing in the year 2022.
+plot showing the rise in median home prices over the past 20 years.  We also created a 
+[line plot](/line_plot_dc_ss_tp.png)
+visualizing the changes in price over the past 20 years.  The analysis shows it was better to invest extra money towards a home in Washington , DC in 2000 because the amount of equity would have out gained the money spent on housing in the year 2022.
 
 ---
 
